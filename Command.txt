@@ -1,0 +1,6 @@
+git init
+git add MyFile.txt
+
+git add Info
+git config user.name "Hind_INFO"
+
